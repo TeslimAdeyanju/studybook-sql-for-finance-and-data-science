@@ -21,6 +21,29 @@ WHERE
 
 -- Example 1.2: > with MAX()
 
+SELECT
+    c.customer_id, 
+    c.first_name, 
+    c.last_name, 
+    COUNT(p.payment_id) AS payment_count
+FROM customer AS c
+JOIN payment AS p 
+USING 
+    (customer_id)
+GROUP BY 
+    c.customer_id, 
+    c.first_name, 
+    c.last_name
+HAVING 
+    COUNT(p.payment_id) >=
+    (   SELECT 
+            MAX(payment_count)
+        FROM(   SELECT
+                    customer_id,
+                    COUNT(*) AS payment_count
+                FROM payment
+                GROUP BY
+                    customer_id) AS customer_payments)
 
 
 
