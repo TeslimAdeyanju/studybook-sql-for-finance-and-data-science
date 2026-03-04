@@ -6,7 +6,7 @@
 -- 1. USING > (GREATER THAN) WITH AGGREGATE FUNCTIONS
 
 -- Example 1.1: > with AVG()
-
+-- Business Scenario: "Find all films with a rental rate higher than the average rental rate"
 SELECT 
     film_id, 
     title, 
@@ -20,6 +20,7 @@ WHERE
 
 
 -- Example 1.2: > with MAX()
+-- Business Scenario: "Find customers who have made more payments than the customer with the maximum number of payments"
 
 SELECT
     c.customer_id, 
