@@ -1,4 +1,4 @@
-# 🚀 MySQL Database Learning Journey
+# MySQL Database Learning Journey
 
 **A Comprehensive MySQL Database Learning Repository**
 
@@ -7,11 +7,11 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 This repository represents a comprehensive and structured learning journey through MySQL database concepts, from fundamental database operations to advanced data analysis techniques. The content is organized into six distinct learning tracks, each building upon previous knowledge and providing hands-on experience with real-world database scenarios.
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 By the end of this learning journey, you will have mastered:
 
@@ -25,14 +25,14 @@ By the end of this learning journey, you will have mastered:
 
 ---
 
-## 📚 Learning Path Structure
+## Learning Path Structure
 
-### 🏫 **Track 1: DataCamp MySQL Foundation** 
+### **Track 1: DataCamp MySQL Foundation**
 *Location: `1-Mysql_Data_Camp/`*
 
 A structured curriculum following DataCamp's progressive learning approach:
 
-#### **Module 1: Introduction to SQL** 📘
+#### **Module 1: Introduction to SQL**
 - **Relational Databases Fundamentals** (`chapter1-Relational Databases.pdf`)
   - Database design principles
   - Entity-relationship modeling
@@ -42,13 +42,13 @@ A structured curriculum following DataCamp's progressive learning approach:
   - Filtering and sorting data
   - Basic aggregations
 
-#### **Module 2: Intermediate SQL** 📗
+#### **Module 2: Intermediate SQL**
 - **Data Selection Mastery** (`intermediate-sql1-Selecting Data.pdf`)
 - **Advanced Filtering** (`intermediate-sql2-Filtering Records.pdf`)
 - **Aggregate Functions** (`intermediate-sql3-Aggregate Functions.pdf`)
 - **Sorting and Grouping** (`intermediate-sql4-Sorting and Grouping.pdf`)
 
-#### **Module 3: Joining Data** 🔗
+#### **Module 3: Joining Data**
 - **Inner Joins Fundamentals** (`chapter1-Introducing Inner Joins.pdf`)
 - **Outer, Cross, and Self Joins** (`chapter2-Outer, Cross, and Self Joins.pdf`)
 - **Set Theory for SQL Joins** (`chapter3-Set Theory for sql joins.pdf`)
@@ -58,40 +58,40 @@ A structured curriculum following DataCamp's progressive learning approach:
   - Real-world join scenarios
   - Data visualization of query results
 
-#### **Module 4: Data Manipulation** ⚡
+#### **Module 4: Data Manipulation**
 - **CASE Statements** (`CASE.mysql-notebook`, `chapter1-Intro to CASE.pdf`)
 - **Subquery Mastery** (`chapter2-Short and Simple Subqueries.pdf`)
 - **Correlated Queries** (`chapter3-Correlated Queries.pdf`)
 - **Window Functions** (`chapter4-Window Function.pdf`)
 
-#### **Module 5: Window Functions** 🪟
+#### **Module 5: Window Functions**
 - **Window Function Fundamentals** (`chapter1-windowfunction.pdf`)
 - **Advanced Window Operations** (`chapter2-window-function.pdf`)
 - **Practical Applications** (`chapter3.pdf`, `chapter4-2.pdf`)
 
-#### **Module 6: Functions and Data Types** 🔧
+#### **Module 6: Functions and Data Types**
 - **Data Types Overview** (`chapter1-Overview of Common Data Types.pdf`)
 - **Date-Time Functions** (`chapter2-DATE-TIME.pdf`)
 - **Advanced Function Applications** (`chapter3.pdf`, `chapter4-2.pdf`)
 
-#### **Module 7: Statistical Analysis** 📊
+#### **Module 7: Statistical Analysis**
 - **Intro to Statistics** (`chapter2.pdf`)
 
-#### **Module 8: Exploratory Data Analysis** 🔍
+#### **Module 8: Exploratory Data Analysis**
 - **EDA Fundamentals** (Multiple chapters)
 - **Entity Relationship Diagrams** (`erdiagram.png`)
 
-#### **Module 9: Data-Driven Decision Making** 🎯
+#### **Module 9: Data-Driven Decision Making**
 - **Decision Framework** (`chapter1.pdf`, `chapter3.pdf`)
 
 ---
 
-### 🎓 **Track 2: Comprehensive MySQL Tutorial** 
+### **Track 2: Comprehensive MySQL Tutorial**
 *Location: `2-Mysql_Tutorial_Class/`*
 
 A thorough tutorial series covering MySQL from basics to advanced concepts:
 
-#### **Basic Modules** 📖
+#### **Basic Modules**
 
 1. **MySQL Introduction** (`Module 1-Mysql-Intro.sql`)
    - Database connection and setup
@@ -126,7 +126,7 @@ A thorough tutorial series covering MySQL from basics to advanced concepts:
    - Generated columns
    - ALTER TABLE operations
 
-#### **Function Modules** ⚙️
+#### **Function Modules**
 
 1. **Aggregate Functions** (`Module 1-MySQL-Aggregate-Functions.sql`)
    - COUNT, SUM, AVG, MIN, MAX
@@ -154,7 +154,7 @@ A thorough tutorial series covering MySQL from basics to advanced concepts:
 
 ---
 
-### 🛠️ **Track 3: Practical Database Operations**
+### **Track 3: Practical Database Operations**
 *Location: `3-DbVisualizer_query/`*
 
 Real-world query examples and database operations:
@@ -168,7 +168,7 @@ Real-world query examples and database operations:
 
 ---
 
-### 📈 **Track 4: SQL Data Analysis with Cathy Tanumura**
+### **Track 4: SQL Data Analysis with Cathy Tanumura**
 *Location: `4-SQL-Data-Analysis-Cathy-Tanumura/`*
 
 Advanced data analysis techniques focusing on time series and retail analytics:
@@ -185,7 +185,7 @@ Advanced data analysis techniques focusing on time series and retail analytics:
   - Interval calculations
   - Period comparisons
 
-#### **Retail Sales Analysis** 🛒
+#### **Retail Sales Analysis**
 - **Dataset**: US Retail Sales (`us_retail_sales-2.csv`)
 - **Jupyter Integration** (`notebook.ipynb`)
 - **Practical Applications**:
@@ -195,7 +195,7 @@ Advanced data analysis techniques focusing on time series and retail analytics:
 
 ---
 
-### ⏰ **Track 5: 24-Hour SQL Intensive**
+### **Track 5: 24-Hour SQL Intensive**
 *Location: `5-Learn 24hoursSQL/`*
 
 Rapid-fire SQL learning with focused exercises:
@@ -212,7 +212,7 @@ Rapid-fire SQL learning with focused exercises:
 
 ---
 
-### 📊 **Track 6: SQL for Data Analytics with Luke**
+### **Track 6: SQL for Data Analytics with Luke**
 *Location: `6-SQL-for-Data-Analytics-Luke/`*
 
 Python-integrated SQL analytics with comprehensive tooling:
@@ -232,41 +232,41 @@ Python-integrated SQL analytics with comprehensive tooling:
 
 ---
 
-## 🎯 Key Learning Outcomes
+## Key Learning Outcomes
 
 ### **Technical Skills Mastered**
 
-#### **1. Query Fundamentals** 🔍
+#### **1. Query Fundamentals**
 - SELECT statements with complex filtering
 - JOIN operations (INNER, LEFT, RIGHT, CROSS, SELF)
 - Subqueries and correlated queries
 - Window functions and analytical operations
 
-#### **2. Data Manipulation** ⚡
+#### **2. Data Manipulation**
 - INSERT, UPDATE, DELETE operations
 - Transaction management
 - Data validation and constraints
 - Bulk operations and performance optimization
 
-#### **3. Function Expertise** 🔧
+#### **3. Function Expertise**
 - **String Functions**: CONCAT, SUBSTRING, REPLACE, INSTR
 - **Date Functions**: DATE_FORMAT, DATEDIFF, DATE_ADD
 - **Aggregate Functions**: COUNT, SUM, AVG, MIN, MAX
 - **Control Flow**: IF, CASE, IFNULL
 
-#### **4. Advanced Concepts** 🚀
+#### **4. Advanced Concepts**
 - Common Table Expressions (CTEs)
 - Recursive queries
 - Stored procedures and functions
 - Indexing and performance optimization
 
-#### **5. Data Analysis** 📊
+#### **5. Data Analysis**
 - Time series analysis
 - Statistical calculations
 - Trend identification
 - Business intelligence reporting
 
-### **Practical Applications** 💼
+### **Practical Applications**
 
 #### **Business Scenarios Covered**
 - **Customer Analysis**: Segmentation, lifetime value, behavior patterns
@@ -281,12 +281,12 @@ Python-integrated SQL analytics with comprehensive tooling:
 
 ---
 
-## 🛠️ Technical Environment
+## Technical Environment
 
 ### **Database Setup**
 - **Primary Database**: ClassicModels (Sample MySQL Database)
 - **Connection Details**: Local MySQL server (localhost:3306)
-- **Tools Used**: 
+- **Tools Used**:
   - DbVisualizer for query development
   - MySQL Workbench for database management
   - Jupyter Notebooks for analysis integration
@@ -300,37 +300,37 @@ Python-integrated SQL analytics with comprehensive tooling:
 
 ---
 
-## 📁 Repository Navigation Guide
+## Repository Navigation Guide
 
 ```
-📦 2-Mainclass-Mysql/
-├── 📖 README.md (This comprehensive guide)
-├── 📋 users-guide.pdf (Additional documentation)
-├── 
-├── 🏫 1-Mysql_Data_Camp/           # Structured learning curriculum
-│   ├── 📘 1-Introduction-sql/      # SQL fundamentals
-│   ├── 📗 2-intermediate sql/      # Intermediate concepts  
-│   ├── 🔗 3-joining data/         # JOIN operations
-│   ├── ⚡ 4-Data Manipulation/     # Data modification
-│   ├── 🪟 5-WindowFunction/       # Window functions
-│   ├── 🔧 6-Functions/            # MySQL functions
-│   ├── 📊 07-Intro to Statistics/ # Statistical analysis
-│   ├── 🔍 08-Exploratory data/    # EDA techniques
-│   └── 🎯 09-Data-Driven/         # Decision making
+2-Mainclass-Mysql/
+├── README.md (This comprehensive guide)
+├── users-guide.pdf (Additional documentation)
+├──
+├── 1-Mysql_Data_Camp/           # Structured learning curriculum
+│   ├── 1-Introduction-sql/      # SQL fundamentals
+│   ├── 2-intermediate sql/      # Intermediate concepts
+│   ├── 3-joining data/          # JOIN operations
+│   ├── 4-Data Manipulation/     # Data modification
+│   ├── 5-WindowFunction/        # Window functions
+│   ├── 6-Functions/             # MySQL functions
+│   ├── 07-Intro to Statistics/  # Statistical analysis
+│   ├── 08-Exploratory data/     # EDA techniques
+│   └── 09-Data-Driven/          # Decision making
 │
-├── 🎓 2-Mysql_Tutorial_Class/      # Comprehensive tutorials
-│   ├── 📖 1-Mysql-Basic-Module/   # Core concepts
-│   └── ⚙️ 2-Mysql-Function-Module/ # Function mastery
+├── 2-Mysql_Tutorial_Class/      # Comprehensive tutorials
+│   ├── 1-Mysql-Basic-Module/    # Core concepts
+│   └── 2-Mysql-Function-Module/ # Function mastery
 │
-├── 🛠️ 3-DbVisualizer_query/       # Practical operations
-├── 📈 4-SQL-Data-Analysis-Cathy/  # Advanced analytics
-├── ⏰ 5-Learn 24hoursSQL/         # Intensive learning
-└── 📊 6-SQL-for-Data-Analytics/   # Python integration
+├── 3-DbVisualizer_query/        # Practical operations
+├── 4-SQL-Data-Analysis-Cathy/   # Advanced analytics
+├── 5-Learn 24hoursSQL/          # Intensive learning
+└── 6-SQL-for-Data-Analytics/    # Python integration
 ```
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### **Prerequisites**
 1. MySQL Server 8.0+ installed and running
@@ -366,7 +366,7 @@ Python-integrated SQL analytics with comprehensive tooling:
 
 ---
 
-## 📚 Recommended Learning Path
+## Recommended Learning Path
 
 ### **Phase 1: Foundation (Weeks 1-2)**
 1. Start with DataCamp Introduction to SQL
@@ -390,7 +390,7 @@ Python-integrated SQL analytics with comprehensive tooling:
 
 ---
 
-## 🎯 Assessment and Progress Tracking
+## Assessment and Progress Tracking
 
 ### **Knowledge Checkpoints**
 - [ ] Basic SELECT and filtering operations
@@ -411,7 +411,7 @@ Python-integrated SQL analytics with comprehensive tooling:
 
 ---
 
-## 💡 Best Practices Learned
+## Best Practices Learned
 
 ### **Query Optimization**
 - Proper indexing strategies
@@ -433,7 +433,7 @@ Python-integrated SQL analytics with comprehensive tooling:
 
 ---
 
-## 🤝 Contributing and Collaboration
+## Contributing and Collaboration
 
 This repository represents personal learning progress, but contributions are welcome:
 
@@ -444,7 +444,7 @@ This repository represents personal learning progress, but contributions are wel
 
 ---
 
-## 📞 Contact and Support
+## Contact and Support
 
 **Teslim Adeyanju**
 - Email: info@adeyanjuteslim.co.uk
@@ -453,13 +453,13 @@ This repository represents personal learning progress, but contributions are wel
 
 ---
 
-## 📄 License and Usage
+## License and Usage
 
 This educational repository is available for learning purposes. Please provide appropriate attribution when using materials for educational or professional development.
 
 ---
 
-## 🎉 Acknowledgments
+## Acknowledgments
 
 - **DataCamp**: Structured SQL curriculum and progressive learning approach
 - **MySQL Tutorial**: Comprehensive examples and practical applications
@@ -471,4 +471,4 @@ This educational repository is available for learning purposes. Please provide a
 
 *"The journey of a thousand queries begins with a single SELECT statement."*
 
-**Happy Learning! 🚀📊💻**
+**Happy Learning!**
